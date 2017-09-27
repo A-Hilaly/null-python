@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages, Command
 
 class null_test(Command):
-    """Runs all "PYTHON" tests under the greww/folder
     """
-
+    Runs all "PYTHON" tests under the /tests folder
+    """
     description = "run all tests"
     user_options = []  # distutils complains if this is not here.
 
