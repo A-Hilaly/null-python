@@ -32,8 +32,8 @@ setup(
     version='0.0.0',
     description='null',
     long_description=readme,
-    author='',
-    author_email='hilalyamine@gmail.com',
+    author='null',
+    author_email='0@None.null'
     cmdclass={'test' : null_test},
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
